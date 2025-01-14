@@ -1,3 +1,3 @@
-names={1:'Devu',5:'Aish',3:'Merlin',2:'Lini',4:'Nayana'}
+names={1:'Devu',2:'Aish',3:'Merlin',4:'Lini',5:'Nayana'}
 print("Ascending order:",sorted(names.items()))
-print("Descending order:",sorted(names.items(),reverse="TRUE"))
+print("Descending order:",sorted(names.items(),reverse=True))
